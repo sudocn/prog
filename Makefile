@@ -1,1 +1,1 @@
-CFLAGS=-g
+CFLAGS=-g -lncurses
